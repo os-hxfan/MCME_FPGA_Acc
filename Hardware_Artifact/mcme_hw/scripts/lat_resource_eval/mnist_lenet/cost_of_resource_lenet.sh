@@ -1,0 +1,2 @@
+bash cost_of_resource_lenet_train.sh
+bash cost_of_resource_lenet_hls.sh

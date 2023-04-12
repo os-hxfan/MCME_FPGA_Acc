@@ -1,0 +1,2 @@
+bash cost_of_latency_lenet_train.sh
+bash cost_of_latency_lenet_hls.sh

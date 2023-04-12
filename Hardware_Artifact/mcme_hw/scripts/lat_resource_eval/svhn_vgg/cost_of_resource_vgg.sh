@@ -1,0 +1,2 @@
+bash cost_of_resource_vgg_train.sh
+bash cost_of_resource_vgg_hls.sh

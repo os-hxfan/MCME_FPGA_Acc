@@ -1,0 +1,2 @@
+python3 train_qkeras_mcme.py --dataset mnist --num_epoch 100 --batch_size 128 --lr 0.01 --gpus 0,1,2,3 --save_dir ./exp_mnist_bayes_lenet --save_model mnist_bayes_lenet_3samples --quant_tbit 8 --mc_samples 3 --model_name lenet
+python3 hls4ml_pred.py --load_model ./exp_mnist_bayes_lenet/mnist_bayes_lenet_3samples --dataset mnist --gpus 0,1,2,3

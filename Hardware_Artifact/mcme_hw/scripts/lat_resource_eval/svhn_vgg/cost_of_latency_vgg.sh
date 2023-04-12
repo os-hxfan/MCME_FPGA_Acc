@@ -1,0 +1,2 @@
+bash cost_of_latency_vgg_train.sh
+bash cost_of_latency_vgg_hls.sh
